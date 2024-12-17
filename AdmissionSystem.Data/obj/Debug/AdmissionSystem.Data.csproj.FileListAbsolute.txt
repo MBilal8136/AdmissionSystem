@@ -1,0 +1,6 @@
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem.Data\bin\Debug\AdmissionSystem.Data.dll
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem.Data\bin\Debug\AdmissionSystem.Data.pdb
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem.Data\obj\Debug\AdmissionSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem.Data\obj\Debug\AdmissionSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem.Data\obj\Debug\AdmissionSystem.Data.dll
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem.Data\obj\Debug\AdmissionSystem.Data.pdb

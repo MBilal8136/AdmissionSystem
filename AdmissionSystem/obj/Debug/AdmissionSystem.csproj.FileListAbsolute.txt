@@ -1,0 +1,13 @@
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.exe.config
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.exe
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.pdb
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.csproj.AssemblyReference.cache
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.Properties.Resources.resources
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.csproj.GenerateResource.cache
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.exe
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.pdb
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.Data.dll
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\bin\Debug\AdmissionSystem.Data.pdb
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.csproj.CopyComplete
+C:\Users\Shop\source\repos\AdmissionSystem\AdmissionSystem\obj\Debug\AdmissionSystem.Form1.resources
